@@ -22,7 +22,6 @@ armSimGUI
 ## To-Do
 
 - [ ] Plot all reachable positions of the end effector in the workspace.
-- [ ] Change the limits of theta from \[-pi, pi\] to \[0, 2pi\] for better visualization.
 
 ## Referances
 
